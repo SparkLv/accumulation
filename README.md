@@ -1,2 +1,5 @@
 # accumulation
-front-end accumulation（一些前端积累知识）
+
+## front-end accumulation
+
+## 一些前端积累知识
